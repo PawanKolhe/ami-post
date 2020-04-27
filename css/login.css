@@ -1,0 +1,8 @@
+#loginFormSection {
+  max-width: 500px;
+  margin: 80px auto 30px;
+}
+
+#container {
+  max-width: unset;
+}
